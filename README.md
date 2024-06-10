@@ -5,7 +5,7 @@
 
 <img align="center" src="assets/Captura.png" alt="imagem do projeto"/>
 
-#### Clica nesse link e divirta-se 👉 
+#### Clica nesse link e divirta-se 👉 https://clinquant-eclair-c53c23.netlify.app/
 
 #### Tecnologias Usadas no projeto
 
