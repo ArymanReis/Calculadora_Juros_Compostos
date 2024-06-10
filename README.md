@@ -1,11 +1,11 @@
 ### Aloha! Sou Aryman Reis Dev.Front-End 🤙
 
-#### Imagem do projeto
-##### Nome: Calculadora de juros compostos
+#### Nome: Calculadora de juros compostos
+##### Imagem do projeto
 
 <img align="center" src="assets/Captura.png" alt="imagem do projeto"/>
 
-#### Clica nesse link e divirta-se 👉 https://arymanreis.github.io/Calculadora/
+#### Clica nesse link e divirta-se 👉 
 
 #### Tecnologias Usadas no projeto
 
